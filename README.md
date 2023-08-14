@@ -22,7 +22,8 @@ Welcome to AwesomeBudget! Based on an example monthly income of $535.05, here's 
 * **Examples**:
   * 📊 **Stocks**: Investments in stable, well-established companies.
   * 🏡 **Real Estate**: Delving into rental properties or REITs.
-  * 🪙 **Cryptocurrencies**: Navigating the world of digital currencies after thorough research.
+  * 💱 **Cryptocurrencies**: Navigating the world of digital currencies after thorough research.
+
 
 ---
 
