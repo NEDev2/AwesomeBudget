@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Budget API Interaction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+
+<body>
+    <h2>Add Expense</h2>
+    <form id="addExpenseForm">
+        <label for="amount">Amount:</label>
+        <input type="number" id="amount" name="amount" required>
+        <br>
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="title" required>
+        <br>
+        <input type="submit" value="Add Expense">
+    </form>
+    <p id="expenseStatus"></p>
+
+    <h2>Current Money</h2>
+    <button onclick="getCurrentMoney()">Check Current Money</button>
+    <p id="currentMoney"></p>
+
+    <h2>Money Spent This Month</h2>
+    <button onclick="getMoneySpentThisMonth()">Check Money Spent</button>
+    <p id="moneySpent"></p>
+
+    <h2>All Expenses</h2>
+    <button onclick="getAllExpenses()">List All Expenses</button>
+    <ul id="expenseList"></ul>
+
+    <!-- Dark mode toggle -->
+    <div id="darkModeToggle" onclick="toggleDarkMode()">🌙 Dark Mode</div>
+
+    <!-- Only one script tag linking to scripts.js at the bottom of the body -->
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</body>
+
+</html>
