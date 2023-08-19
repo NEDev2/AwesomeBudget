@@ -12,8 +12,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 📚 **Education:** Additional study materials or supplies.
 - 🎒 **School Trips:** Sudden educational trips or excursions.
 
-## 🌐 Long-Term Savings (40%)
-**Total:** `$107.2 USD / ₪400.4 ILS`  
+## 🌐 Long-Term Savings (36%)
+**Total:** `$96.48 USD / ₪360.36 ILS`  
 **Purpose:** Setting the foundation for future needs like college, travel, or bigger purchases.  
 **Examples:**
 - 🎓 **College:** Saving towards tuition or dormitory expenses.
@@ -21,8 +21,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 🌏 **Gap Year:** Planning a travel experience after high school.
 - 🖥 **Upgrades:** Getting a better laptop or phone.
 
-## 🎯 Short-Term Savings/Goals (19%)
-**Total:** `$50.92 USD / ₪190.19 ILS`  
+## 🎯 Short-Term Savings/Goals (25%)
+**Total:** `$67 USD / ₪250.25 ILS`  
 **Purpose:** For near-future goals or purchases that enhance daily life.  
 **Examples:**
 - 🎮 **Games:** The latest video game or in-app purchases.
@@ -30,8 +30,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 🎁 **Gifts:** For friends' birthdays or special occasions.
 - 👗 **Fashion:** Buying that trendy piece of clothing or sneakers.
 
-## 💪 Health and Fitness (20%)
-**Total:** `$53.6 USD / ₪200.2 ILS`  
+## 💪 Health and Fitness (19%)
+**Total:** `$50.92 USD / ₪190.19 ILS`  
 **Purpose:** Investments in physical and mental health through fitness, nutrition, and mindfulness.  
 **Examples:**
 - 🧘 **Meditation Apps:** Tools to assist in mental well-being.
@@ -39,8 +39,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 🏋️ **Gym Memberships:** Regular fitness regimes or classes.
 - 🚴 **Sports Equipment:** Gears for cycling, running, or other sports.
 
-## 🛍️ Personal Spending (10%)
-**Total:** `$26.8 USD / ₪100.1 ILS`  
+## 🛍️ Personal Spending (9%)
+**Total:** `$24.12 USD / ₪90.09 ILS`  
 **Purpose:** Casual spending money for daily enjoyment and relaxation.  
 **Examples:**
 - 🍕 **Food:** Grabbing a pizza or a burger with friends.
