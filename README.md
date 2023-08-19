@@ -12,8 +12,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 📚 **Education:** Additional study materials or supplies.
 - 🎒 **School Trips:** Sudden educational trips or excursions.
 
-## 🌐 Long-Term Savings (51%)
-**Total:** `$136.68 USD / ₪510.51 ILS`  
+## 🌐 Long-Term Savings (48%)
+**Total:** `$128.64 USD / ₪480.48 ILS`  
 **Purpose:** Setting the foundation for future needs like college, travel, or bigger purchases.  
 **Examples:**
 - 🎓 **College:** Saving towards tuition or dormitory expenses.
@@ -21,8 +21,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 🌏 **Gap Year:** Planning a travel experience after high school.
 - 🖥 **Upgrades:** Getting a better laptop or phone.
 
-## 🎯 Short-Term Savings/Goals (26%)
-**Total:** `$69.68 USD / ₪260.26 ILS`  
+## 🎯 Short-Term Savings/Goals (23%)
+**Total:** `$61.64 USD / ₪230.23 ILS`  
 **Purpose:** For near-future goals or purchases that enhance daily life.  
 **Examples:**
 - 🎮 **Games:** The latest video game or in-app purchases.
@@ -30,8 +30,17 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 🎁 **Gifts:** For friends' birthdays or special occasions.
 - 👗 **Fashion:** Buying that trendy piece of clothing or sneakers.
 
-## 🛍️ Personal Spending (12%)
-**Total:** `$32.16 USD / ₪120.12 ILS`  
+## 💪 Health and Fitness (7%)
+**Total:** `$18.76 USD / ₪70.07 ILS`  
+**Purpose:** Investments in physical and mental health through fitness, nutrition, and mindfulness.  
+**Examples:**
+- 🧘 **Meditation Apps:** Tools to assist in mental well-being.
+- 🥦 **Diet:** Healthy food or supplements.
+- 🏋️ **Gym Memberships:** Regular fitness regimes or classes.
+- 🚴 **Sports Equipment:** Gears for cycling, running, or other sports.
+
+## 🛍️ Personal Spending (11%)
+**Total:** `$29.48 USD / ₪110.11 ILS`  
 **Purpose:** Casual spending money for daily enjoyment and relaxation.  
 **Examples:**
 - 🍕 **Food:** Grabbing a pizza or a burger with friends.
