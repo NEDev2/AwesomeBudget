@@ -30,15 +30,6 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 🎁 **Gifts:** For friends' birthdays or special occasions.
 - 👗 **Fashion:** Buying that trendy piece of clothing or sneakers.
 
-## 🧠 Self-improvement/ Education (11%)
-**Total:** `$29 USD / ₪110 ILS`  
-**Purpose:** Investing in learning, hobbies, and personal growth.  
-**Examples:**
-- 🎸 **Instruments:** Buying or maintaining a musical instrument.
-- 🎨 **Arts:** Art supplies or classes.
-- 💻 **Online Courses:** Picking up a new skill or hobby.
-- 📖 **Books:** Expanding the personal library with novels or educational reads.
-
 ## 🛍️ Personal Spending (10%)
 **Total:** `$27 USD / ₪101 ILS`  
 **Purpose:** Casual spending money for daily enjoyment and relaxation.  
