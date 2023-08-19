@@ -12,8 +12,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 📚 **Education:** Additional study materials or supplies.
 - 🎒 **School Trips:** Sudden educational trips or excursions.
 
-## 🌐 Long-Term Savings (45%)
-**Total:** `$121 USD / ₪451 ILS`  
+## 🌐 Long-Term Savings (51%)
+**Total:** `$136.68 USD / ₪510.51 ILS`  
 **Purpose:** Setting the foundation for future needs like college, travel, or bigger purchases.  
 **Examples:**
 - 🎓 **College:** Saving towards tuition or dormitory expenses.
@@ -21,8 +21,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 🌏 **Gap Year:** Planning a travel experience after high school.
 - 🖥 **Upgrades:** Getting a better laptop or phone.
 
-## 🎯 Short-Term Savings/Goals (23%)
-**Total:** `$62 USD / ₪231 ILS`  
+## 🎯 Short-Term Savings/Goals (26%)
+**Total:** `$69.68 USD / ₪260.26 ILS`  
 **Purpose:** For near-future goals or purchases that enhance daily life.  
 **Examples:**
 - 🎮 **Games:** The latest video game or in-app purchases.
@@ -30,8 +30,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$2
 - 🎁 **Gifts:** For friends' birthdays or special occasions.
 - 👗 **Fashion:** Buying that trendy piece of clothing or sneakers.
 
-## 🛍️ Personal Spending (10%)
-**Total:** `$27 USD / ₪101 ILS`  
+## 🛍️ Personal Spending (12%)
+**Total:** `$32.16 USD / ₪120.12 ILS`  
 **Purpose:** Casual spending money for daily enjoyment and relaxation.  
 **Examples:**
 - 🍕 **Food:** Grabbing a pizza or a burger with friends.
