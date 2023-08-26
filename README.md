@@ -3,8 +3,8 @@
 
 Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$402.14 USD / ₪1,500 ILS`, here's a comprehensive breakdown to help teenagers manage their finances effectively.
 
-## 🚨 Emergency Savings (8%)
-**Total:** `$32.17 USD / ₪120 ILS`  
+## 🚨 Emergency Savings (5%)
+**Total:** `$20.11 USD / ₪75 ILS`  
 **Purpose:** A buffer for unexpected expenses or surprises that might come up in a teenager's life.  
 **Examples:**
 - 🩺 **Health:** Unplanned medical needs or sports injuries.
@@ -39,8 +39,8 @@ Welcome to AwesomeBudget! Based on an example monthly allowance or income of `$4
 - 🏋️ **Gym Memberships:** Regular fitness regimes or classes.
 - 🚴 **Sports Equipment:** Gears for cycling, running, or other sports.
 
-## 🛍️ Personal Spending (9%)
-**Total:** `$36.19 USD / ₪135 ILS`  
+## 🛍️ Personal Spending (12%)
+**Total:** `$48.26 USD / ₪180 ILS`  
 **Purpose:** Casual spending money for daily enjoyment and relaxation.  
 **Examples:**
 - 🍕 **Food:** Grabbing a pizza or a burger with friends.
